@@ -1,0 +1,13 @@
+h1{
+  font-size: 20px;
+  color:blue;
+  text-align: center;
+
+}
+nav{
+  text-decoration: underline;
+  display:inline-block;
+position:fixed;
+text-align: right;
+
+}
