@@ -7,13 +7,11 @@ h1{
 nav{
   text
   display: inline-block;
-  text-align: left;
-
+  text-align:left;
 }
-#projects {
-  text-align: center;
-}
-#about me {
-  text-align: center; 
-}
-}
+ #projects {
+   color: red;
+ }
+ #about me {
+   color: red;
+ }
