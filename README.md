@@ -1,5 +1,12 @@
-# my-portfolio
-created by jasonmuchiri
-it is a portfolio about me
-created on February 11th 2019
-here is a link to it:https://jasonmuchiri.github.io/my-portfolio/
+## Project name ##
+My Portfolio
+## Author ##
+Jason Muchiri
+## Description of the project ##
+This is my programming portfolio which i created on 12th February 2019.
+## Set up instructions ##
+Clone the repository from Git-Hub.
+## License ##
+MIT License
+
+Copyright (c) 2019 cooldragon
