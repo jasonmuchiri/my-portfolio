@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project name ##
 My Portfolio
 ## Author ##
@@ -13,3 +14,10 @@ CSS
 MIT License
 
 Copyright (c) 2019 cooldragon
+=======
+# my-portfolio
+created by jasonmuchiri
+it is a portfolio about me 
+created on february 11th 2019
+here is a link to it https://jasonmuchiri.github.io/my-portfolio/
+>>>>>>> f6a00e94aaa95130d26cdbb0c0073932bd16e1e3
